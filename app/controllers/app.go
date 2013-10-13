@@ -1,8 +1,8 @@
 package controllers
 
 import (
+	"github.com/dougnukem/revel-helloworld/app/models"
 	"github.com/robfig/revel"
-	"helloworld/app/models"
 )
 
 type App struct {
